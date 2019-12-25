@@ -1,6 +1,6 @@
 ## Nextjs With Firebase SSR Hosting
 
-Go firebase console and Make your own project.
+Go firebase console and Make your own project. [Firebase](console.firebase.google.com)
 
 > git clone https://github.com/kidow/next-ssr-firebase-hosting.git
 
